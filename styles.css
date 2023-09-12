@@ -1,0 +1,55 @@
+body {
+    font-family: 'Varela Round', sans-serif;
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.lectures {
+    background-color: rgba(211, 188, 76, 0.319);
+}
+
+footer {
+    text-align: center;
+}
+
+a {
+    text-decoration: none
+}
+
+.kastila, .home, .hero-headline {
+    color: rgb(213, 128, 8) !important
+}
+
+li a {
+    padding: 8px 12px;
+    border-radius: 3px;
+    font-weight: 700;
+}
+
+.link {
+    color: rgb(158, 41, 237);
+    background-color: rgba(255, 255, 255, 0.9);
+    font-family: 'Varela Round', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    padding: 4px 6px;
+    border-radius: 3px;
+    border: none;
+}
+
+.btn {
+    color: white;
+    background-color: rgba(145, 5, 238, .85);
+    font-family: 'Varela Round', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none;
+}
+
+.para {
+    opacity: .9;
+}
